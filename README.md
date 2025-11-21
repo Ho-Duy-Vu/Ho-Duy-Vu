@@ -1,5 +1,5 @@
 # Xin chào, mình là Hồ Duy Vũ 👋
-## Kỹ sư phần mềm | Lập trình viên Full-stack
+## Kỹ sư phần mềm | Lập trình viên Full-stack | Đam mê AI & Web Development
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vuhodev.vercel.app-blue?style=for-the-badge&logo=vercel)](https://vuhodev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hồ%20Duy%20Vũ-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hoduyvu/)
@@ -11,11 +11,13 @@
 
 ---
 
-### 🚀 Mục tiêu nghề nghiệp
+### 🚀 Giới thiệu & Mục tiêu nghề nghiệp
 
-Mình là sinh viên Công nghệ thông tin với mong muốn trở thành Kỹ sư phần mềm, đặc biệt yêu thích phát triển **Full-stack**. Mình có nền tảng vững chắc về Frontend (**ReactJS, TypeScript**) và đang tích cực học hỏi Backend với **FastAPI** và **Node.js**. Mình cũng tìm hiểu về việc tích hợp AI (NLP, OCR, Computer Vision) vào ứng dụng web để nâng cao khả năng của sản phẩm.
+Mình là **Hồ Duy Vũ**, sinh viên Công nghệ thông tin tại TP.HCM với mong muốn trở thành **Kỹ sư phần mềm (Software Engineer)** chuyên nghiệp. Mình có niềm đam mê lớn với **Full-stack Web Development** và **Trí tuệ nhân tạo (AI)**.
 
-Mục tiêu của mình là tích lũy kinh nghiệm thực tế, cải thiện kỹ năng lập trình, tư duy thiết kế hệ thống và làm việc nhóm trong môi trường chuyên nghiệp. Mình luôn sẵn sàng học hỏi từ các mentor và đóng góp vào các dự án ý nghĩa để trở thành một lập trình viên toàn diện.
+Mình sở hữu nền tảng vững chắc về **Frontend** (ReactJS, TypeScript, TailwindCSS) và đang tích cực mở rộng kỹ năng **Backend** với FastAPI, Node.js và Python. Đặc biệt, mình yêu thích việc nghiên cứu và tích hợp các công nghệ AI tiên tiến như **NLP, OCR, Computer Vision** vào các ứng dụng thực tế để giải quyết vấn đề và nâng cao trải nghiệm người dùng.
+
+Mục tiêu của mình là trở thành một lập trình viên toàn diện, đóng góp vào các dự án công nghệ ý nghĩa và không ngừng học hỏi trong môi trường chuyên nghiệp.
 
 ---
 
@@ -56,10 +58,10 @@ Mục tiêu của mình là tích lũy kinh nghiệm thực tế, cải thiện 
 
 ### 💻 Dự án nổi bật
 
-#### 🏥 [Restroom Finder](https://github.com/VUHODEV/Restroom_Finder) (12/2024 - Hiện tại)
+#### 🏥 [Restroom Finder - Ứng dụng tìm nhà vệ sinh thông minh](https://github.com/VUHODEV/Restroom_Finder) (12/2024 - Hiện tại)
 *Lập trình viên Frontend | Nhóm: 4 thành viên*
 
-Ứng dụng thông minh giúp tìm kiếm nhà vệ sinh với hệ thống giám sát AI.
+Ứng dụng thông minh giúp tìm kiếm nhà vệ sinh công cộng với hệ thống giám sát AI.
 - **Tính năng chính**:
     - Định vị/dẫn đường đến nhà vệ sinh gần nhất qua Map4D/Google Maps.
     - Trạng thái phòng trống và độ sạch sẽ theo thời gian thực.
@@ -67,11 +69,11 @@ Mục tiêu của mình là tích lũy kinh nghiệm thực tế, cải thiện 
     - Giám sát AI: đếm người, cảnh báo quá tải, hỗ trợ khẩn cấp SOS.
 - **Công nghệ sử dụng**: ReactJS, SCSS, TypeScript, Node.js, Express.js, MongoDB, Python (Flask/FastAPI, YOLO).
 
-#### 🛡️ [VAM Insurance System](https://github.com/VUHODEV/VAM-Insurance) (09/2025 - Hiện tại)
+#### 🛡️ [VAM Insurance System - Nền tảng bảo hiểm tích hợp AI](https://github.com/VUHODEV/VAM-Insurance) (09/2025 - Hiện tại)
 *Lập trình viên Full-stack | Nhóm: 3 thành viên*
 [🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
 
-Nền tảng bảo hiểm tích hợp AI dành cho vùng lũ lụt và thiên tai.
+Nền tảng bảo hiểm công nghệ (InsurTech) tích hợp AI dành cho vùng lũ lụt và thiên tai.
 - **Tính năng chính**:
     - Mua và truy cập bảo hiểm từ xa cho vùng thiên tai.
     - Trích xuất thông tin hàng loạt từ nhiều loại giấy tờ (CCCD, đăng ký xe, sổ đỏ) với độ chính xác ~95%.
@@ -80,11 +82,11 @@ Nền tảng bảo hiểm tích hợp AI dành cho vùng lũ lụt và thiên ta
     - Chatbot AI hỗ trợ 24/7.
 - **Công nghệ sử dụng**: React 19, TypeScript, FastAPI, Python, Tailwind CSS, Zustand, SQLite, Gemini 2.5 Flash.
 
-#### 🎓 [CODEPROTALK](https://github.com/VUHODEV/CODEPROTALK) (05/2025 - Hiện tại)
+#### 🎓 [CODEPROTALK - Nền tảng học tập & tuyển dụng IT](https://github.com/VUHODEV/CODEPROTALK) (05/2025 - Hiện tại)
 *Lập trình viên Full-stack | Nhóm: 2 thành viên*
 [🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
 
-Nền tảng học tập & tuyển dụng IT thông minh.
+Nền tảng EdTech kết hợp tuyển dụng thông minh dành cho dân IT.
 - **Tính năng chính**:
     - Trợ lý học tập AI, Gợi ý nghề nghiệp, Giả lập phỏng vấn AI.
     - Phỏng vấn giọng nói thời gian thực với đánh giá tự động (XLM-RoBERTa).
