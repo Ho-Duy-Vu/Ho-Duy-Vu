@@ -13,7 +13,7 @@
 
 ### 🚀 Mục tiêu nghề nghiệp
 
-Mình là sinh viên Công nghệ thông tin với mong muốn trở thành Kỹ sư phần mềm, đặc biệt yêu thích phát triển **Full-stack**. Mình có nền tảng vững chắc về Frontend (**ReactJS, TypeScript**) và đang tích cực học hỏi Backend với **FastAPI** và **Node.js**. Mình cũng tìm hiểu về việc tích hợp AI (NLP, OCR, hệ thống gợi ý) vào ứng dụng web để nâng cao khả năng của sản phẩm.
+Mình là sinh viên Công nghệ thông tin với mong muốn trở thành Kỹ sư phần mềm, đặc biệt yêu thích phát triển **Full-stack**. Mình có nền tảng vững chắc về Frontend (**ReactJS, TypeScript**) và đang tích cực học hỏi Backend với **FastAPI** và **Node.js**. Mình cũng tìm hiểu về việc tích hợp AI (NLP, OCR, Computer Vision) vào ứng dụng web để nâng cao khả năng của sản phẩm.
 
 Mục tiêu của mình là tích lũy kinh nghiệm thực tế, cải thiện kỹ năng lập trình, tư duy thiết kế hệ thống và làm việc nhóm trong môi trường chuyên nghiệp. Mình luôn sẵn sàng học hỏi từ các mentor và đóng góp vào các dự án ý nghĩa để trở thành một lập trình viên toàn diện.
 
