@@ -97,8 +97,8 @@ Nền tảng học tập & tuyển dụng IT thông minh.
 
 ### 🎓 Học vấn
 
-**Trường Đại học Bách Khoa - ĐHQG TP.HCM** (2022 - 2026)
-*Cử nhân Công nghệ thông tin – Kỹ thuật phần mềm*
+**Trường Đại học Công Nghệ TP.HCM** (2022 - 2026)
+*Kỹ Sư Công nghệ thông tin – Kỹ thuật phần mềm*
 - **GPA**: 3.3/4.0
 
 ---
