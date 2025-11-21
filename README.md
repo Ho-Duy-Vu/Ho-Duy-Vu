@@ -1,5 +1,5 @@
-# Hi there, I'm Hồ Duy Vũ 👋
-## Software Engineer | Full-stack Developer
+# Xin chào, mình là Hồ Duy Vũ 👋
+## Kỹ sư phần mềm | Lập trình viên Full-stack
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vuhodev.vercel.app-blue?style=for-the-badge&logo=vercel)](https://vuhodev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hồ%20Duy%20Vũ-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hoduyvu/)
@@ -7,19 +7,19 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7918--6011-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7918-6011)
 [![Youtube](https://img.shields.io/badge/Youtube-@vuhoduy9075-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vuhoduy9075)
 
-📍 **Location**: Thu Duc, Ho Chi Minh
+📍 **Địa điểm**: Thủ Đức, TP. Hồ Chí Minh
 
 ---
 
-### 🚀 Career Objective
+### 🚀 Mục tiêu nghề nghiệp
 
-I am an Information Technology student aspiring to become a Software Engineer with a strong interest in **Full-stack development**. I have a solid foundation in Frontend technologies (**ReactJS, TypeScript**) and am actively learning Backend development using **FastAPI** and **Node.js**. I also explore integrating AI (NLP, OCR, recommendation systems) into web applications to enhance product capability.
+Mình là sinh viên Công nghệ thông tin với mong muốn trở thành Kỹ sư phần mềm, đặc biệt yêu thích phát triển **Full-stack**. Mình có nền tảng vững chắc về Frontend (**ReactJS, TypeScript**) và đang tích cực học hỏi Backend với **FastAPI** và **Node.js**. Mình cũng tìm hiểu về việc tích hợp AI (NLP, OCR, hệ thống gợi ý) vào ứng dụng web để nâng cao khả năng của sản phẩm.
 
-My goal is to gain real-world experience, improve my coding skills, system design understanding, and teamwork in a professional environment. I am eager to learn from mentors and contribute to impactful projects while growing into a well-rounded developer.
+Mục tiêu của mình là tích lũy kinh nghiệm thực tế, cải thiện kỹ năng lập trình, tư duy thiết kế hệ thống và làm việc nhóm trong môi trường chuyên nghiệp. Mình luôn sẵn sàng học hỏi từ các mentor và đóng góp vào các dự án ý nghĩa để trở thành một lập trình viên toàn diện.
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Kỹ năng
 
 **Frontend**:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,12 +38,12 @@ My goal is to gain real-world experience, improve my coding skills, system desig
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Database**:
+**Cơ sở dữ liệu**:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools & AI**:
+**Công cụ & AI**:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -54,68 +54,69 @@ My goal is to gain real-world experience, improve my coding skills, system desig
 
 ---
 
-### 💻 Projects
+### 💻 Dự án nổi bật
 
-#### 🏥 [Restroom Finder](https://github.com/VUHODEV/Restroom_Finder) (12/2024 - Present)
-*Frontend Developer | Team size: 4*
+#### 🏥 [Restroom Finder](https://github.com/VUHODEV/Restroom_Finder) (12/2024 - Hiện tại)
+*Lập trình viên Frontend | Nhóm: 4 thành viên*
 
-A smart application to locate restrooms with AI-powered monitoring.
-- **Key Features**:
-    - Locate/navigate to nearest restrooms via Map4D/Google Maps.
-    - Real-time occupancy and cleanliness status.
-    - Automatic payments (e-wallets, QR).
-    - AI monitoring: people counting, overload alerts, SOS support.
-- **Tech Stack**: ReactJS, SCSS, TypeScript, Node.js, Express.js, MongoDB, Python (Flask/FastAPI, YOLO).
+Ứng dụng thông minh giúp tìm kiếm nhà vệ sinh với hệ thống giám sát AI.
+- **Tính năng chính**:
+    - Định vị/dẫn đường đến nhà vệ sinh gần nhất qua Map4D/Google Maps.
+    - Trạng thái phòng trống và độ sạch sẽ theo thời gian thực.
+    - Thanh toán tự động (ví điện tử, QR).
+    - Giám sát AI: đếm người, cảnh báo quá tải, hỗ trợ khẩn cấp SOS.
+- **Công nghệ sử dụng**: ReactJS, SCSS, TypeScript, Node.js, Express.js, MongoDB, Python (Flask/FastAPI, YOLO).
 
-#### 🛡️ [VAM Insurance System](https://github.com/VUHODEV/VAM-Insurance) (09/2025 - Present)
-*Full-stack Developer | Team size: 3*
+#### 🛡️ [VAM Insurance System](https://github.com/VUHODEV/VAM-Insurance) (09/2025 - Hiện tại)
+*Lập trình viên Full-stack | Nhóm: 3 thành viên*
 [🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
 
-AI-driven insurance platform for flood and natural disaster zones.
-- **Key Features**:
-    - Remote access/purchase of insurance for disaster zones.
-    - Multi-file batch AI extraction (ID, vehicle reg, property certs) with ~95% accuracy.
-    - Real-time weather analysis (OpenWeather API) for risk assessment.
-    - Interactive map for storm/flood zones.
-    - 24/7 AI Chatbot for guidance.
-- **Tech Stack**: React 19, TypeScript, FastAPI, Python, Tailwind CSS, Zustand, SQLite, Gemini 2.5 Flash.
+Nền tảng bảo hiểm tích hợp AI dành cho vùng lũ lụt và thiên tai.
+- **Tính năng chính**:
+    - Mua và truy cập bảo hiểm từ xa cho vùng thiên tai.
+    - Trích xuất thông tin hàng loạt từ nhiều loại giấy tờ (CCCD, đăng ký xe, sổ đỏ) với độ chính xác ~95%.
+    - Phân tích thời tiết thời gian thực (OpenWeather API) để đánh giá rủi ro.
+    - Bản đồ tương tác hiển thị vùng bão/lũ.
+    - Chatbot AI hỗ trợ 24/7.
+- **Công nghệ sử dụng**: React 19, TypeScript, FastAPI, Python, Tailwind CSS, Zustand, SQLite, Gemini 2.5 Flash.
 
-#### 🎓 [CODEPROTALK](https://github.com/VUHODEV/CODEPROTALK) (05/2025 - Present)
-*Full-stack Developer | Team size: 2*
+#### 🎓 [CODEPROTALK](https://github.com/VUHODEV/CODEPROTALK) (05/2025 - Hiện tại)
+*Lập trình viên Full-stack | Nhóm: 2 thành viên*
 [🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
 
-Smart IT Learning & Recruitment Platform.
-- **Key Features**:
-    - AI Learning Assistant, Career Recommender, AI Interview Simulator.
-    - Real-time voice interviews with automatic evaluation (GPT-4, XLM-RoBERTa).
-    - Scalable microservices architecture.
-    - Personalized learning paths using Content-Based Filtering.
-- **Tech Stack**: React, TypeScript, Node.js, FastAPI, MongoDB, Python, GPT-4, Judge0 API.
+Nền tảng học tập & tuyển dụng IT thông minh.
+- **Tính năng chính**:
+    - Trợ lý học tập AI, Gợi ý nghề nghiệp, Giả lập phỏng vấn AI.
+    - Phỏng vấn giọng nói thời gian thực với đánh giá tự động (XLM-RoBERTa).
+    - Kiến trúc microservices mở rộng.
+    - Lộ trình học tập cá nhân hóa sử dụng Content-Based Filtering.
+    - Tuyển dụng phân tích CV đưa ra các vị trí tuyển dụng chuyên nghiệp dựa vào model OCR (XLM-RoBERTa)
+- **Công nghệ sử dụng**: React, TypeScript, Node.js, FastAPI, MongoDB, Python, GPT-4, Judge0 API.
 
 ---
 
-### 🎓 Education
+### 🎓 Học vấn
 
-**Ho Chi Minh City University of Technology** (2022 - 2026)
-*Bachelor of Information Technology – Software Engineering*
+**Trường Đại học Bách Khoa - ĐHQG TP.HCM** (2022 - 2026)
+*Cử nhân Công nghệ thông tin – Kỹ thuật phần mềm*
 - **GPA**: 3.3/4.0
 
 ---
 
-### 🏆 Honors & Awards
+### 🏆 Giải thưởng & Thành tích
 
-- 🥉 **3rd Prize** at city-level competition for AI-powered community platform (2024)
-- 🏅 **Finalist** Database Design Competition (2024)
-- 🏆 **Winner** My First Website (2024)
-- 📜 **Certificate of Excellence**, HCA AI Olympiad (2025)
-- 🌟 **Top 100 Finalists** HDHACKATHON with Sovico Group (2025)
-- 🚀 **Top 10 Finalists** NASA Space Apps Challenge HCM (2025)
-- 🎖️ **Honorable Mention (Top 12)** K-Tech Nexus AI Hackathon (2025)
-- 💡 **Top 15 Finalists** CoverGo AI Hackathon (2025)
+- 🥉 **Giải Ba** cuộc thi cấp thành phố về phát triển nền tảng cộng đồng tích hợp AI (2024)
+- 🏅 **Vòng chung kết** cuộc thi Thiết kế Cơ sở dữ liệu (2024)
+- 🏆 **Quán quân** cuộc thi My First Website (2024)
+- 📜 **Chứng nhận xuất sắc**, Olympic AI TP.HCM (HCA) (2025)
+- 🌟 **Top 100 Chung kết** HDHACKATHON cùng Sovico Group (2025)
+- 🚀 **Top 10 Chung kết** NASA Space Apps Challenge HCM (2025)
+- 🎖️ **Giải Khuyến khích (Top 12)** K-Tech Nexus AI Hackathon (2025)
+- 💡 **Top 15 Chung kết** CoverGo AI Hackathon (2025)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Thống kê GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=VUHODEV&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VUHODEV&theme=tokyonight&hide_border=true)
