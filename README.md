@@ -1,5 +1,5 @@
 # Xin chào, mình là Hồ Duy Vũ 👋
-## Kỹ sư phần mềm | Lập trình viên Full-stack | Đam mê AI & Web Development
+## Software Engineer | Full-stack Developer | AI & Web Development Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vuhodev.vercel.app-blue?style=for-the-badge&logo=vercel)](https://vuhodev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hồ%20Duy%20Vũ-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hoduyvu/)
@@ -13,7 +13,7 @@
 
 ### 🚀 Giới thiệu & Mục tiêu nghề nghiệp
 
-Mình là **Hồ Duy Vũ**, sinh viên Công nghệ thông tin tại TP.HCM với mong muốn trở thành **Kỹ sư phần mềm (Software Engineer)** chuyên nghiệp. Mình có niềm đam mê lớn với **Full-stack Web Development** và **Trí tuệ nhân tạo (AI)**.
+Mình là **Hồ Duy Vũ**, sinh viên Công nghệ thông tin tại TP.HCM với mong muốn trở thành **Software Engineer** chuyên nghiệp. Mình có niềm đam mê lớn với **Full-stack Web Development** và **Artificial Intelligence (AI)**.
 
 Mình sở hữu nền tảng vững chắc về **Frontend** (ReactJS, TypeScript, TailwindCSS) và đang tích cực mở rộng kỹ năng **Backend** với FastAPI, Node.js và Python. Đặc biệt, mình yêu thích việc nghiên cứu và tích hợp các công nghệ AI tiên tiến như **NLP, OCR, Computer Vision** vào các ứng dụng thực tế để giải quyết vấn đề và nâng cao trải nghiệm người dùng.
 
@@ -59,7 +59,7 @@ Mục tiêu của mình là trở thành một lập trình viên toàn diện, 
 ### 💻 Dự án nổi bật
 
 #### 🏥 [Restroom Finder - Ứng dụng tìm nhà vệ sinh thông minh](https://github.com/VUHODEV/Restroom_Finder) (12/2024 - Hiện tại)
-*Lập trình viên Frontend | Nhóm: 4 thành viên*
+*Frontend Developer | Team size: 4*
 
 Ứng dụng thông minh giúp tìm kiếm nhà vệ sinh công cộng với hệ thống giám sát AI.
 - **Tính năng chính**:
@@ -70,7 +70,7 @@ Mục tiêu của mình là trở thành một lập trình viên toàn diện, 
 - **Công nghệ sử dụng**: ReactJS, SCSS, TypeScript, Node.js, Express.js, MongoDB, Python (Flask/FastAPI, YOLO).
 
 #### 🛡️ [VAM Insurance System - Nền tảng bảo hiểm tích hợp AI](https://github.com/VUHODEV/VAM-Insurance) (09/2025 - Hiện tại)
-*Lập trình viên Full-stack | Nhóm: 3 thành viên*
+*Full-stack Developer | Team size: 3*
 [🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
 
 Nền tảng bảo hiểm công nghệ (InsurTech) tích hợp AI dành cho vùng lũ lụt và thiên tai.
@@ -83,7 +83,7 @@ Nền tảng bảo hiểm công nghệ (InsurTech) tích hợp AI dành cho vùn
 - **Công nghệ sử dụng**: React 19, TypeScript, FastAPI, Python, Tailwind CSS, Zustand, SQLite, Gemini 2.5 Flash.
 
 #### 🎓 [CODEPROTALK - Nền tảng học tập & tuyển dụng IT](https://github.com/VUHODEV/CODEPROTALK) (05/2025 - Hiện tại)
-*Lập trình viên Full-stack | Nhóm: 2 thành viên*
+*Full-stack Developer | Team size: 2*
 [🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
 
 Nền tảng EdTech kết hợp tuyển dụng thông minh dành cho dân IT.
@@ -100,7 +100,7 @@ Nền tảng EdTech kết hợp tuyển dụng thông minh dành cho dân IT.
 ### 🎓 Học vấn
 
 **Trường Đại học Công Nghệ TP.HCM** (2022 - 2026)
-*Kỹ Sư Công nghệ thông tin – Kỹ thuật phần mềm*
+*Bachelor of Information Technology – Software Engineering*
 - **GPA**: 3.3/4.0
 
 ---
