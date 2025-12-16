@@ -111,7 +111,7 @@ Nền tảng EdTech kết hợp tuyển dụng thông minh dành cho dân IT.
 - 🏅 **Vòng chung kết** cuộc thi Thiết kế Cơ sở dữ liệu (2024)
 - 🏆 **Quán quân** cuộc thi My First Website (2024)
 - 📜 **Chứng nhận xuất sắc**, Olympic AI TP.HCM (HCA) (2025)
-- 🌟 **Top 100 Chung kết** HDHACKATHON cùng Sovico Group (2025)
+- 🌟 **Top 10 Chung kết** HDHACKATHON cùng Sovico Group (2025)
 - 🚀 **Top 10 Chung kết** NASA Space Apps Challenge HCM (2025)
 - 🎖️ **Giải Khuyến khích** K-Tech Nexus AI Hackathon (2025)
 - 💡 **Top 15 Chung kết** CoverGo AI Hackathon (2025)
