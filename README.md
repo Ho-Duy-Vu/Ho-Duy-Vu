@@ -1,5 +1,5 @@
 # Xin chào, mình là Hồ Duy Vũ 👋
-## Software Engineer | Full-stack Developer | AI & Web Development Enthusiast
+## Software Engineer | Full-stack Developer | AI & Web Development Enthusiast | Hồ Duy Vũ
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vuhodev.vercel.app-blue?style=for-the-badge&logo=vercel)](https://vuhodev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hồ%20Duy%20Vũ-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hoduyvu/)
@@ -107,9 +107,8 @@ Nền tảng EdTech kết hợp tuyển dụng thông minh dành cho dân IT.
 
 ### 🏆 Giải thưởng & Thành tích
 
-- 🥉 **Giải Ba** cuộc thi cấp thành phố về phát triển nền tảng cộng đồng tích hợp AI (2024)
-- 🏅 **Vòng chung kết** cuộc thi Thiết kế Cơ sở dữ liệu (2024)
-- 🏆 **Quán quân** cuộc thi My First Website (2024)
+- 🥉 **Giải Ba** IT GOT TALENT của Hội Tin Học TP.HCM(HCA) (2024)
+- 🥉 **Giải Ba** IT GOT TALENT của Hội Tin Học TP.HCM(HCA) (2025)
 - 📜 **Chứng nhận xuất sắc**, Olympic AI TP.HCM (HCA) (2025)
 - 🌟 **Top 10 Chung kết** HDHACKATHON cùng Sovico Group (2025)
 - 🚀 **Top 10 Chung kết** NASA Space Apps Challenge HCM (2025)
