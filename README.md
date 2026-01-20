@@ -84,7 +84,7 @@ Nền tảng bảo hiểm công nghệ (InsurTech) tích hợp AI dành cho vùn
 
 #### 🎓 [CODEPROTALK - Nền tảng học tập & tuyển dụng IT](https://github.com/VUHODEV/CODEPROTALK) (05/2025 - Hiện tại)
 *Full-stack Developer | Team size: 2*
-[🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
+[🎥 Demo Video]([https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt](https://youtu.be/KkBezke1yhs?si=Kvn7IWElbO0W23ob))
 
 Nền tảng EdTech kết hợp tuyển dụng thông minh dành cho dân IT.
 - **Tính năng chính**:
