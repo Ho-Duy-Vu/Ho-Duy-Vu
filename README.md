@@ -27,6 +27,19 @@ My goal is to become a well-rounded developer, contribute to meaningful technolo
 
 ---
 
+---
+
+### 🎓 Education
+
+**Ho Chi Minh City University of Technology (HUTECH)**  
+(2022 - 2026)
+
+*Bachelor of Information Technology – Software Engineering*
+
+- **GPA**: 3.3/4.0
+
+---
+
 ### 🛠️ Skills
 
 **Frontend**:
@@ -130,17 +143,6 @@ An EdTech platform combined with intelligent recruitment designed for IT profess
 - Recruitment system that analyzes CVs and suggests professional job positions using OCR models (XLM-RoBERTa).
 
 - **Technologies used**: React, TypeScript, Node.js, FastAPI, MongoDB, Python, GPT-4, Judge0 API.
-
----
-
-### 🎓 Education
-
-**Ho Chi Minh City University of Technology (HUTECH)**  
-(2022 - 2026)
-
-*Bachelor of Information Technology – Software Engineering*
-
-- **GPA**: 3.3/4.0
 
 ---
 
