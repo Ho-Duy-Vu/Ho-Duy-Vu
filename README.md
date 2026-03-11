@@ -1,55 +1,35 @@
-<h1 align="center">Hi 👋, I'm Hồ Duy Vũ</h1>
-<h3 align="center">Software Engineer | Full-stack Developer | AI & Web Development Enthusiast</h3>
+# Hello, I'm Hồ Duy Vũ 👋
 
-<p align="center">
-Building scalable web applications and AI-powered solutions using modern technologies.
-</p>
+## Software Engineer | Full-stack Developer | AI & Web Development Enthusiast | Hồ Duy Vũ
 
-<p align="center">
-  <a href="https://vuhodev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-vuhodev.vercel.app-blue?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://www.linkedin.com/in/hoduyvu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hồ%20Duy%20Vũ-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:duyvu11092004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-duyvu11092004@gmail.com-c14438?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://orcid.org/0009-0003-7918-6011">
-    <img src="https://img.shields.io/badge/ORCID-0009--0003--7918--6011-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@vuhoduy9075">
-    <img src="https://img.shields.io/badge/Youtube-@vuhoduy9075-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-vuhodev.vercel.app-blue?style=for-the-badge&logo=vercel)](https://vuhodev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hồ%20Duy%20Vũ-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hoduyvu/)
+[![Email](https://img.shields.io/badge/Email-duyvu11092004@gmail.com-c14438?style=for-the-badge&logo=gmail)](mailto:duyvu11092004@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7918--6011-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7918-6011)
+[![Youtube](https://img.shields.io/badge/Youtube-@vuhoduy9075-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vuhoduy9075)
 
-<p align="center">
-📍 Thu Duc City, Ho Chi Minh City, Vietnam
-</p>
+📍 **Location**: Thu Duc, Ho Chi Minh City  
+🔗 **GitHub**: https://github.com/Ho-Duy-Vu
 
 ---
 
-# 👨‍💻 About Me
+### 🚀 Introduction & Career Objective
 
-I am **Hồ Duy Vũ**, an **Information Technology student** in Ho Chi Minh City aspiring to become a professional **Software Engineer**.
+I am **Hồ Duy Vũ**, an Information Technology student in Ho Chi Minh City aspiring to become a professional **Software Engineer**.
 
-My primary focus is building **scalable web applications integrated with Artificial Intelligence**. I enjoy developing systems that combine **modern web technologies, machine learning models, and intelligent automation**.
+I have a strong passion for **Full-stack Web Development** and **Artificial Intelligence (AI)**.
 
-My areas of interest include:
+I have a solid foundation in **Frontend** (ReactJS, TypeScript, TailwindCSS) and am actively expanding my **Backend** skills with FastAPI, Node.js, and Python.
 
-- Full-stack Web Development  
-- Artificial Intelligence & Machine Learning  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- AI-powered SaaS applications  
+In particular, I enjoy researching and integrating advanced AI technologies such as **NLP, OCR, and Computer Vision** into real-world applications to solve problems and improve user experience.
 
-I aim to become a **well-rounded engineer capable of designing and building production-ready AI systems.**
+My goal is to become a well-rounded developer, contribute to meaningful technology projects, and continuously learn in a professional environment.
 
 ---
 
-# 🧠 Tech Stack
+### 🛠️ Skills
 
-## Frontend Development
+**Frontend**:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -60,9 +40,7 @@ I aim to become a **well-rounded engineer capable of designing and building prod
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
----
-
-## Backend Development
+**Backend**:
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
@@ -70,17 +48,15 @@ I aim to become a **well-rounded engineer capable of designing and building prod
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
----
-
-## Databases
+**Databases**:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
----
-
-## Tools & AI
+**Tools & AI**:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -92,113 +68,91 @@ I aim to become a **well-rounded engineer capable of designing and building prod
 
 ---
 
-# 📊 GitHub Statistics
+### 💻 Featured Projects
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ho-Duy-Vu&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Duy-Vu&layout=compact&theme=tokyonight"/>
-</p>
+#### 🏥 [Restroom Finder - Smart Restroom Finder Application](https://github.com/Ho-Duy-Vu/Restroom_Finder)
 
----
+(12/2024 - Present)
 
-# 💻 Featured Projects
+*Frontend Developer | Team size: 4*
 
-## 🏥 Restroom Finder – Smart Public Restroom Finder
-Frontend Developer | Team size: 4  
-📅 Dec 2024 – Present
+A smart application that helps locate public restrooms with an AI monitoring system.
 
-🔗 https://github.com/Ho-Duy-Vu/Restroom_Finder
+- **Main features**:
 
-A smart platform that helps users **locate nearby public restrooms** and integrates **AI monitoring systems for safety and hygiene management.**
+- Locate and navigate to the nearest restroom via Map4D/Google Maps.
+- Real-time availability and cleanliness status.
+- Automatic payment (e-wallet, QR).
+- AI monitoring: people counting, overcrowding alerts, emergency SOS support.
 
-### Key Features
-
-- Navigation to the nearest restroom using **Map4D / Google Maps**
-- Real-time restroom availability monitoring
-- QR / E-wallet payment system
-- AI monitoring system:
-  - People counting
-  - Overcrowding detection
-  - Emergency SOS alert system
-
-### Technologies
-
-ReactJS • TypeScript • SCSS • Node.js • Express • MongoDB • Python • YOLO
+- **Technologies used**: ReactJS, SCSS, TypeScript, Node.js, Express.js, MongoDB, Python (Flask/FastAPI, YOLO).
 
 ---
 
-## 🛡️ VAM Insurance – AI InsurTech Platform
-Full-stack Developer | Team size: 3  
-📅 Sep 2025 – Present
+#### 🛡️ [VAM Insurance System - AI Integrated Insurance Platform](https://github.com/Ho-Duy-Vu/VAM-Insurance)
 
-🎥 Demo  
-https://youtu.be/iPgthVh4_4k
+(09/2025 - Present)
 
-🔗 https://github.com/Ho-Duy-Vu/VAM-Insurance
+*Full-stack Developer | Team size: 3*
 
-An **AI-powered insurance platform** designed for disaster-prone regions.
+[🎥 Demo Video](https://youtu.be/iPgthVh4_4k?si=bMP4axbYD0QXgAIt)
 
-### Key Features
+An InsurTech platform integrated with AI designed for flood and disaster-prone regions.
 
-- Remote insurance registration for disaster areas
-- AI document processing with **OCR (~95% accuracy)**
-- Real-time weather risk analysis using **OpenWeather API**
-- Interactive disaster risk map
-- AI chatbot for insurance consultation
+- **Main features**:
 
-### Technologies
+- Remote insurance purchase and access for disaster areas.
+- Mass information extraction from multiple document types (ID card, vehicle registration, land certificate) with ~95% accuracy.
+- Real-time weather analysis (OpenWeather API) for risk assessment.
+- Interactive map showing storm/flood areas.
+- 24/7 AI chatbot support.
 
-React 19 • FastAPI • Python • Tailwind CSS • SQLite • Gemini API
+- **Technologies used**: React 19, TypeScript, FastAPI, Python, Tailwind CSS, Zustand, SQLite, Gemini 2.5 Flash.
 
 ---
 
-## 🎓 CODEPROTALK – AI Learning & IT Recruitment Platform
-Full-stack Developer | Team size: 2  
-📅 May 2025 – Present
+#### 🎓 [CODEPROTALK - IT Learning & Recruitment Platform](https://github.com/Ho-Duy-Vu/CODEPROTALK)
 
-🎥 Demo  
-https://youtu.be/KkBezke1yhs
+(05/2025 - Present)
 
-🔗 https://github.com/Ho-Duy-Vu/CODEPROTALK
+*Full-stack Developer | Team size: 2*
 
-An **EdTech platform integrated with AI career guidance and technical interview simulation.**
+[🎥 Demo Video](https://youtu.be/KkBezke1yhs?si=z1VA4sncxwC6zHe9)
 
-### Key Features
+An EdTech platform combined with intelligent recruitment designed for IT professionals.
 
-- AI learning assistant
-- AI mock interview system
-- Real-time voice interview evaluation
-- Personalized learning paths
-- CV analysis using AI
-- Online code execution via Judge0
+- **Main features**:
 
-### Technologies
+- AI learning assistant, career suggestions, AI interview simulation.
+- Real-time voice interview with automatic evaluation (XLM-RoBERTa).
+- Scalable microservices architecture.
+- Personalized learning paths using Content-Based Filtering.
+- Recruitment system that analyzes CVs and suggests professional job positions using OCR models (XLM-RoBERTa).
 
-React • Node.js • FastAPI • MongoDB • Python • GPT-4 • Judge0 API
+- **Technologies used**: React, TypeScript, Node.js, FastAPI, MongoDB, Python, GPT-4, Judge0 API.
 
 ---
 
-# 🎓 Education
+### 🎓 Education
 
 **Ho Chi Minh City University of Technology (HUTECH)**  
-Bachelor of Information Technology – Software Engineering  
+(2022 - 2026)
 
-2022 – 2026  
-GPA: **3.3 / 4.0**
+*Bachelor of Information Technology – Software Engineering*
 
----
-
-# 🏆 Awards & Achievements
-
-🥉 Third Prize – IT GOT TALENT (HCA) 2024  
-🥉 Third Prize – IT GOT TALENT (HCA) 2025  
-📜 Certificate of Excellence – AI Olympic HCMC 2025  
-🌟 Top 10 Finalist – HDHackathon (Sovico Group)  
-🚀 Top 10 Finalist – NASA Space Apps Challenge HCMC  
-🎖 Encouragement Prize – K-Tech Nexus AI Hackathon  
-💡 Top 15 Finalist – CoverGo AI Hackathon
+- **GPA**: 3.3/4.0
 
 ---
+
+### 🏆 Awards & Achievements
+
+- 🥉 **Third Prize** – IT GOT TALENT by Ho Chi Minh City Computer Association (HCA) (2024)
+- 🥉 **Third Prize** – IT GOT TALENT by Ho Chi Minh City Computer Association (HCA) (2025)
+- 📜 **Certificate of Excellence**, AI Olympic HCMC (HCA) (2025)
+- 🌟 **Top 10 Finalist** – HDHACKATHON with Sovico Group (2025)
+- 🚀 **Top 10 Finalist** – NASA Space Apps Challenge HCMC (2025)
+- 🎖️ **Encouragement Prize** – K-Tech Nexus AI Hackathon (2025)
+- 💡 **Top 15 Finalist** – CoverGo AI Hackathon (2025)
 
 ## 🐍 GitHub Contribution Snake
 
