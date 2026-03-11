@@ -24,6 +24,7 @@ I have a solid foundation in **Frontend** (ReactJS, TypeScript, TailwindCSS) and
 In particular, I enjoy researching and integrating advanced AI technologies such as **NLP, OCR, and Computer Vision** into real-world applications to solve problems and improve user experience.
 
 My goal is to become a well-rounded developer, contribute to meaningful technology projects, and continuously learn in a professional environment.
+
 ---
 
 ### 🎓 Education
