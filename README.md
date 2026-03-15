@@ -29,7 +29,7 @@ My goal is to become a well-rounded developer, contribute to meaningful technolo
 
 ### 🎓 Education
 
-**Ho Chi Minh City University of Technology **  
+**Ho Chi Minh City University of Technology**  
 (2022 - 2026)
 
 *Bachelor of Information Technology – Software Engineering*
